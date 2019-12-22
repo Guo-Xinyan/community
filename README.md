@@ -9,3 +9,4 @@ shift + 回车;光标移动到下一行
 control + p ;查看参数类型
 
 Ctrl+E或者Alt+Shift+C  最近更改的代码
+community
